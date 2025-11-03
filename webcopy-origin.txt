@@ -1,0 +1,380 @@
+Uri: https://www.caixabank.es/deployedfiles/common/ds/assets/js/bundle.js
+File Name: C:\Downloaded Web Sites\www.caixabank.es\deployedfiles\common\ds\assets\js\bundle.js
+Content Type: application/javascript
+
+Uri: https://www.caixabank.es/deployedfiles/common/ds/assets/vendor/swiperjs/js/swiper-bundle.min.js
+File Name: C:\Downloaded Web Sites\www.caixabank.es\deployedfiles\common\ds\assets\vendor\swiperjs\js\swiper-bundle.min.js
+Content Type: application/javascript
+
+Uri: https://www.caixabank.es/deployedfiles/common/ds/styles/new-components.css
+File Name: C:\Downloaded Web Sites\www.caixabank.es\deployedfiles\common\ds\styles\new-components.css
+Content Type: text/css
+
+Uri: https://www.caixabank.es/deployedfiles/common/JavaScript/aplnr/cookie/cookie-policy.js
+File Name: C:\Downloaded Web Sites\www.caixabank.es\deployedfiles\common\JavaScript\aplnr\cookie\cookie-policy.js
+Content Type: application/javascript
+
+Uri: https://www.caixabank.es/deployedfiles/common/JavaScript/aplnr/cookie/cookies-banner.js
+File Name: C:\Downloaded Web Sites\www.caixabank.es\deployedfiles\common\JavaScript\aplnr\cookie\cookies-banner.js
+Content Type: application/javascript
+
+Uri: https://www.caixabank.es/deployedfiles/common/JavaScript/aplnr/cookie/neo-cookie-policy.js
+File Name: C:\Downloaded Web Sites\www.caixabank.es\deployedfiles\common\JavaScript\aplnr\cookie\neo-cookie-policy.js
+Content Type: application/javascript
+
+Uri: https://www.caixabank.es/deployedfiles/common/JavaScript/cleanSessionStorage.js
+File Name: C:\Downloaded Web Sites\www.caixabank.es\deployedfiles\common\JavaScript\cleanSessionStorage.js
+Content Type: application/javascript
+
+Uri: https://www.caixabank.es/deployedfiles/common/JavaScript/lolopo/aplnr/loader_prelogin_caixaES.js
+File Name: C:\Downloaded Web Sites\www.caixabank.es\deployedfiles\common\JavaScript\lolopo\aplnr\loader_prelogin_caixaES.js
+Content Type: application/javascript
+
+Uri: https://www.caixabank.es/deployedfiles/common/JavaScript/lolopo/aplnr/lolopo.js
+File Name: C:\Downloaded Web Sites\www.caixabank.es\deployedfiles\common\JavaScript\lolopo\aplnr\lolopo.js
+Content Type: application/javascript
+
+Uri: https://www.caixabank.es/deployedfiles/common/JavaScript/NEOVideo.js
+File Name: C:\Downloaded Web Sites\www.caixabank.es\deployedfiles\common\JavaScript\NEOVideo.js
+Content Type: application/javascript
+
+Uri: https://www.caixabank.es/deployedfiles/common/js/adobe-target.js
+File Name: C:\Downloaded Web Sites\www.caixabank.es\deployedfiles\common\js\adobe-target.js
+Content Type: application/javascript
+
+Uri: https://www.caixabank.es/deployedfiles/common/js/prebid-ads.js
+File Name: C:\Downloaded Web Sites\www.caixabank.es\deployedfiles\common\js\prebid-ads.js
+Content Type: application/javascript
+
+Uri: https://www.caixabank.es/deployedfiles/common/R2016/CSS/NeoThirdParty.css
+File Name: C:\Downloaded Web Sites\www.caixabank.es\deployedfiles\common\R2016\CSS\NeoThirdParty.css
+Content Type: text/css
+
+Uri: https://www.caixabank.es/deployedfiles/common/R2016/Estaticos/css/NEO-R2016-Home.css
+File Name: C:\Downloaded Web Sites\www.caixabank.es\deployedfiles\common\R2016\Estaticos\css\NEO-R2016-Home.css
+Content Type: text/css
+
+Uri: https://www.caixabank.es/deployedfiles/common/R2016/Estaticos/css/NEO-R2022-Home.css
+File Name: C:\Downloaded Web Sites\www.caixabank.es\deployedfiles\common\R2016\Estaticos\css\NEO-R2022-Home.css
+Content Type: text/css
+
+Uri: https://www.caixabank.es/deployedfiles/common/R2016/Estaticos/images/fff.png
+File Name: C:\Downloaded Web Sites\www.caixabank.es\deployedfiles\common\R2016\Estaticos\images\fff.png
+Content Type: image/png
+
+Uri: https://www.caixabank.es/deployedfiles/common/R2016/Estaticos/js/common.js
+File Name: C:\Downloaded Web Sites\www.caixabank.es\deployedfiles\common\R2016\Estaticos\js\common.js
+Content Type: application/javascript
+
+Uri: https://www.caixabank.es/deployedfiles/common/R2016/Estaticos/js/lib/mustache.min.js
+File Name: C:\Downloaded Web Sites\www.caixabank.es\deployedfiles\common\R2016\Estaticos\js\lib\mustache.min.js
+Content Type: application/javascript
+
+Uri: https://www.caixabank.es/deployedfiles/common/R2016/Estaticos/js/lib/NeoThirdParty.js
+File Name: C:\Downloaded Web Sites\www.caixabank.es\deployedfiles\common\R2016\Estaticos\js\lib\NeoThirdParty.js
+Content Type: application/javascript
+
+Uri: https://www.caixabank.es/deployedfiles/common/R2016/Estaticos/js/NEO-R2016-Home.min.js
+File Name: C:\Downloaded Web Sites\www.caixabank.es\deployedfiles\common\R2016\Estaticos\js\NEO-R2016-Home.min.js
+Content Type: application/javascript
+
+Uri: https://www.caixabank.es/deployedfiles/common/R2016/Estaticos/js/NeoThirdParty2.js
+File Name: C:\Downloaded Web Sites\www.caixabank.es\deployedfiles\common\R2016\Estaticos\js\NeoThirdParty2.js
+Content Type: application/javascript
+
+Uri: https://www.caixabank.es/deployedfiles/empresas/Estaticos/imagenes/Home/Ventajasatudisposicion02.png
+File Name: C:\Downloaded Web Sites\www.caixabank.es\deployedfiles\empresas\Estaticos\imagenes\Home\Ventajasatudisposicion02.png
+Content Type: image/png
+
+Uri: https://www.caixabank.es/deployedfiles/particulares/Estaticos/Imagenes/Blog.svg
+File Name: C:\Downloaded Web Sites\www.caixabank.es\deployedfiles\particulares\Estaticos\Imagenes\Blog.svg
+Content Type: image/svg+xml
+
+Uri: https://www.caixabank.es/deployedfiles/particulares/Estaticos/Imagenes/CompraEstrella/ico-faciliteacasa-part.png
+File Name: C:\Downloaded Web Sites\www.caixabank.es\deployedfiles\particulares\Estaticos\Imagenes\CompraEstrella\ico-faciliteacasa-part.png
+Content Type: image/png
+
+Uri: https://www.caixabank.es/deployedfiles/particulares/Estaticos/Imagenes/Facebook.svg
+File Name: C:\Downloaded Web Sites\www.caixabank.es\deployedfiles\particulares\Estaticos\Imagenes\Facebook.svg
+Content Type: image/svg+xml
+
+Uri: https://www.caixabank.es/deployedfiles/particulares/Estaticos/Imagenes/General/Home_COMPROMISSOCIAL_1_V2.jpg
+File Name: C:\Downloaded Web Sites\www.caixabank.es\deployedfiles\particulares\Estaticos\Imagenes\General\Home_COMPROMISSOCIAL_1_V2.jpg
+Content Type: image/jpeg
+
+Uri: https://www.caixabank.es/deployedfiles/particulares/Estaticos/Imagenes/General/img_macromenu_hazte_cliente.png
+File Name: C:\Downloaded Web Sites\www.caixabank.es\deployedfiles\particulares\Estaticos\Imagenes\General\img_macromenu_hazte_cliente.png
+Content Type: image/png
+
+Uri: https://www.caixabank.es/deployedfiles/particulares/Estaticos/Imagenes/General/whatsapp_ico.svg
+File Name: C:\Downloaded Web Sites\www.caixabank.es\deployedfiles\particulares\Estaticos\Imagenes\General\whatsapp_ico.svg
+Content Type: image/svg+xml
+
+Uri: https://www.caixabank.es/deployedfiles/particulares/Estaticos/Imagenes/Geolocalizador_CXB.svg
+File Name: C:\Downloaded Web Sites\www.caixabank.es\deployedfiles\particulares\Estaticos\Imagenes\Geolocalizador_CXB.svg
+Content Type: image/svg+xml
+
+Uri: https://www.caixabank.es/deployedfiles/particulares/Estaticos/Imagenes/Home/575x384_compromisosocial.jpg
+File Name: C:\Downloaded Web Sites\www.caixabank.es\deployedfiles\particulares\Estaticos\Imagenes\Home\575x384_compromisosocial.jpg
+Content Type: image/jpeg
+
+Uri: https://www.caixabank.es/deployedfiles/particulares/Estaticos/Imagenes/Home/768_terrat3.png
+File Name: C:\Downloaded Web Sites\www.caixabank.es\deployedfiles\particulares\Estaticos\Imagenes\Home\768_terrat3.png
+Content Type: image/png
+
+Uri: https://www.caixabank.es/deployedfiles/particulares/Estaticos/Imagenes/Home/Ahorro.png
+File Name: C:\Downloaded Web Sites\www.caixabank.es\deployedfiles\particulares\Estaticos\Imagenes\Home\Ahorro.png
+Content Type: image/png
+
+Uri: https://www.caixabank.es/deployedfiles/particulares/Estaticos/Imagenes/Home/Amedida_Desktop_01.png
+File Name: C:\Downloaded Web Sites\www.caixabank.es\deployedfiles\particulares\Estaticos\Imagenes\Home\Amedida_Desktop_01.png
+Content Type: image/png
+
+Uri: https://www.caixabank.es/deployedfiles/particulares/Estaticos/Imagenes/Home/Amedida_Desktop_06.png
+File Name: C:\Downloaded Web Sites\www.caixabank.es\deployedfiles\particulares\Estaticos\Imagenes\Home\Amedida_Desktop_06.png
+Content Type: image/png
+
+Uri: https://www.caixabank.es/deployedfiles/particulares/Estaticos/Imagenes/Home/Amedida_Desktop_07.png
+File Name: C:\Downloaded Web Sites\www.caixabank.es\deployedfiles\particulares\Estaticos\Imagenes\Home\Amedida_Desktop_07.png
+Content Type: image/png
+
+Uri: https://www.caixabank.es/deployedfiles/particulares/Estaticos/Imagenes/Home/bancapremier3_160.png
+File Name: C:\Downloaded Web Sites\www.caixabank.es\deployedfiles\particulares\Estaticos\Imagenes\Home\bancapremier3_160.png
+Content Type: image/png
+
+Uri: https://www.caixabank.es/deployedfiles/particulares/Estaticos/Imagenes/Home/bancaprivada2_160.png
+File Name: C:\Downloaded Web Sites\www.caixabank.es\deployedfiles\particulares\Estaticos\Imagenes\Home\bancaprivada2_160.png
+Content Type: image/png
+
+Uri: https://www.caixabank.es/deployedfiles/particulares/Estaticos/Imagenes/Home/circulargeneracionplus.png
+File Name: C:\Downloaded Web Sites\www.caixabank.es\deployedfiles\particulares\Estaticos\Imagenes\Home\circulargeneracionplus.png
+Content Type: image/png
+
+Uri: https://www.caixabank.es/deployedfiles/particulares/Estaticos/Imagenes/Home/Empresaspart-v2.png
+File Name: C:\Downloaded Web Sites\www.caixabank.es\deployedfiles\particulares\Estaticos\Imagenes\Home\Empresaspart-v2.png
+Content Type: image/png
+
+Uri: https://www.caixabank.es/deployedfiles/particulares/Estaticos/Imagenes/Home/Fondosdeinversion.png
+File Name: C:\Downloaded Web Sites\www.caixabank.es\deployedfiles\particulares\Estaticos\Imagenes\Home\Fondosdeinversion.png
+Content Type: image/png
+
+Uri: https://www.caixabank.es/deployedfiles/particulares/Estaticos/Imagenes/Home/Frame1682.png
+File Name: C:\Downloaded Web Sites\www.caixabank.es\deployedfiles\particulares\Estaticos\Imagenes\Home\Frame1682.png
+Content Type: image/png
+
+Uri: https://www.caixabank.es/deployedfiles/particulares/Estaticos/Imagenes/Home/frame_nosotros.jpg
+File Name: C:\Downloaded Web Sites\www.caixabank.es\deployedfiles\particulares\Estaticos\Imagenes\Home\frame_nosotros.jpg
+Content Type: image/jpeg
+
+Uri: https://www.caixabank.es/deployedfiles/particulares/Estaticos/Imagenes/Home/GAVI_3.jpg
+File Name: C:\Downloaded Web Sites\www.caixabank.es\deployedfiles\particulares\Estaticos\Imagenes\Home\GAVI_3.jpg
+Content Type: image/jpeg
+
+Uri: https://www.caixabank.es/deployedfiles/particulares/Estaticos/Imagenes/Home/Hipotecas.png
+File Name: C:\Downloaded Web Sites\www.caixabank.es\deployedfiles\particulares\Estaticos\Imagenes\Home\Hipotecas.png
+Content Type: image/png
+
+Uri: https://www.caixabank.es/deployedfiles/particulares/Estaticos/Imagenes/Home/imaginteens.png
+File Name: C:\Downloaded Web Sites\www.caixabank.es\deployedfiles\particulares\Estaticos\Imagenes\Home\imaginteens.png
+Content Type: image/png
+
+Uri: https://www.caixabank.es/deployedfiles/particulares/Estaticos/Imagenes/Home/img_home_campanaMAC_slider.png
+File Name: C:\Downloaded Web Sites\www.caixabank.es\deployedfiles\particulares\Estaticos\Imagenes\Home\img_home_campanaMAC_slider.png
+Content Type: image/png
+
+Uri: https://www.caixabank.es/deployedfiles/particulares/Estaticos/Imagenes/Home/Jubilacion.png
+File Name: C:\Downloaded Web Sites\www.caixabank.es\deployedfiles\particulares\Estaticos\Imagenes\Home\Jubilacion.png
+Content Type: image/png
+
+Uri: https://www.caixabank.es/deployedfiles/particulares/Estaticos/Imagenes/Home/nomina.png
+File Name: C:\Downloaded Web Sites\www.caixabank.es\deployedfiles\particulares\Estaticos\Imagenes\Home\nomina.png
+Content Type: image/png
+
+Uri: https://www.caixabank.es/deployedfiles/particulares/Estaticos/Imagenes/Home/Post_Desktop_02_sin_Mascara.jpg
+File Name: C:\Downloaded Web Sites\www.caixabank.es\deployedfiles\particulares\Estaticos\Imagenes\Home\Post_Desktop_02_sin_Mascara.jpg
+Content Type: image/jpeg
+
+Uri: https://www.caixabank.es/deployedfiles/particulares/Estaticos/Imagenes/Home/Post_Desktop_03_sin_mascara.jpg
+File Name: C:\Downloaded Web Sites\www.caixabank.es\deployedfiles\particulares\Estaticos\Imagenes\Home\Post_Desktop_03_sin_mascara.jpg
+Content Type: image/jpeg
+
+Uri: https://www.caixabank.es/deployedfiles/particulares/Estaticos/Imagenes/Home/Prestamos.png
+File Name: C:\Downloaded Web Sites\www.caixabank.es\deployedfiles\particulares\Estaticos\Imagenes\Home\Prestamos.png
+Content Type: image/png
+
+Uri: https://www.caixabank.es/deployedfiles/particulares/Estaticos/Imagenes/Home/Renting.png
+File Name: C:\Downloaded Web Sites\www.caixabank.es\deployedfiles\particulares\Estaticos\Imagenes\Home\Renting.png
+Content Type: image/png
+
+Uri: https://www.caixabank.es/deployedfiles/particulares/Estaticos/Imagenes/Home/Seguros.png
+File Name: C:\Downloaded Web Sites\www.caixabank.es\deployedfiles\particulares\Estaticos\Imagenes\Home\Seguros.png
+Content Type: image/png
+
+Uri: https://www.caixabank.es/deployedfiles/particulares/Estaticos/Imagenes/Home/Tarjetas.png
+File Name: C:\Downloaded Web Sites\www.caixabank.es\deployedfiles\particulares\Estaticos\Imagenes\Home\Tarjetas.png
+Content Type: image/png
+
+Uri: https://www.caixabank.es/deployedfiles/particulares/Estaticos/Imagenes/Home/Ventajasatudisposicion.png
+File Name: C:\Downloaded Web Sites\www.caixabank.es\deployedfiles\particulares\Estaticos\Imagenes\Home\Ventajasatudisposicion.png
+Content Type: image/png
+
+Uri: https://www.caixabank.es/deployedfiles/particulares/Estaticos/Imagenes/Home/Ventajasatudisposicionico3.png
+File Name: C:\Downloaded Web Sites\www.caixabank.es\deployedfiles\particulares\Estaticos\Imagenes\Home\Ventajasatudisposicionico3.png
+Content Type: image/png
+
+Uri: https://www.caixabank.es/deployedfiles/particulares/Estaticos/Imagenes/Home/Wivai.png
+File Name: C:\Downloaded Web Sites\www.caixabank.es\deployedfiles\particulares\Estaticos\Imagenes\Home\Wivai.png
+Content Type: image/png
+
+Uri: https://www.caixabank.es/deployedfiles/particulares/Estaticos/Imagenes/Home/xperience1.jpg
+File Name: C:\Downloaded Web Sites\www.caixabank.es\deployedfiles\particulares\Estaticos\Imagenes\Home\xperience1.jpg
+Content Type: image/jpeg
+
+Uri: https://www.caixabank.es/deployedfiles/particulares/Estaticos/Imagenes/ico121.svg
+File Name: C:\Downloaded Web Sites\www.caixabank.es\deployedfiles\particulares\Estaticos\Imagenes\ico121.svg
+Content Type: image/svg+xml
+
+Uri: https://www.caixabank.es/deployedfiles/particulares/Estaticos/Imagenes/ico128.svg
+File Name: C:\Downloaded Web Sites\www.caixabank.es\deployedfiles\particulares\Estaticos\Imagenes\ico128.svg
+Content Type: image/svg+xml
+
+Uri: https://www.caixabank.es/deployedfiles/particulares/Estaticos/Imagenes/ico214.svg
+File Name: C:\Downloaded Web Sites\www.caixabank.es\deployedfiles\particulares\Estaticos\Imagenes\ico214.svg
+Content Type: image/svg+xml
+
+Uri: https://www.caixabank.es/deployedfiles/particulares/Estaticos/Imagenes/ico259.svg
+File Name: C:\Downloaded Web Sites\www.caixabank.es\deployedfiles\particulares\Estaticos\Imagenes\ico259.svg
+Content Type: image/svg+xml
+
+Uri: https://www.caixabank.es/deployedfiles/particulares/Estaticos/Imagenes/Instagram.svg
+File Name: C:\Downloaded Web Sites\www.caixabank.es\deployedfiles\particulares\Estaticos\Imagenes\Instagram.svg
+Content Type: image/svg+xml
+
+Uri: https://www.caixabank.es/deployedfiles/particulares/Estaticos/Imagenes/Linkedin.svg
+File Name: C:\Downloaded Web Sites\www.caixabank.es\deployedfiles\particulares\Estaticos\Imagenes\Linkedin.svg
+Content Type: image/svg+xml
+
+Uri: https://www.caixabank.es/deployedfiles/particulares/Estaticos/Imagenes/Pruebas/FO/ico-ahorro-part.png
+File Name: C:\Downloaded Web Sites\www.caixabank.es\deployedfiles\particulares\Estaticos\Imagenes\Pruebas\FO\ico-ahorro-part.png
+Content Type: image/png
+
+Uri: https://www.caixabank.es/deployedfiles/particulares/Estaticos/Imagenes/Pruebas/FO/ico-alarmas-part.png
+File Name: C:\Downloaded Web Sites\www.caixabank.es\deployedfiles\particulares\Estaticos\Imagenes\Pruebas\FO\ico-alarmas-part.png
+Content Type: image/png
+
+Uri: https://www.caixabank.es/deployedfiles/particulares/Estaticos/Imagenes/Pruebas/FO/ico-bancadigital-part.png
+File Name: C:\Downloaded Web Sites\www.caixabank.es\deployedfiles\particulares\Estaticos\Imagenes\Pruebas\FO\ico-bancadigital-part.png
+Content Type: image/png
+
+Uri: https://www.caixabank.es/deployedfiles/particulares/Estaticos/Imagenes/Pruebas/FO/ico-banco-part.png
+File Name: C:\Downloaded Web Sites\www.caixabank.es\deployedfiles\particulares\Estaticos\Imagenes\Pruebas\FO\ico-banco-part.png
+Content Type: image/png
+
+Uri: https://www.caixabank.es/deployedfiles/particulares/Estaticos/Imagenes/Pruebas/FO/ico-descuentos-part.png
+File Name: C:\Downloaded Web Sites\www.caixabank.es\deployedfiles\particulares\Estaticos\Imagenes\Pruebas\FO\ico-descuentos-part.png
+Content Type: image/png
+
+Uri: https://www.caixabank.es/deployedfiles/particulares/Estaticos/Imagenes/Pruebas/FO/ico-donativos-part.png
+File Name: C:\Downloaded Web Sites\www.caixabank.es\deployedfiles\particulares\Estaticos\Imagenes\Pruebas\FO\ico-donativos-part.png
+Content Type: image/png
+
+Uri: https://www.caixabank.es/deployedfiles/particulares/Estaticos/Imagenes/Pruebas/FO/ico-experience-part.png
+File Name: C:\Downloaded Web Sites\www.caixabank.es\deployedfiles\particulares\Estaticos\Imagenes\Pruebas\FO\ico-experience-part.png
+Content Type: image/png
+
+Uri: https://www.caixabank.es/deployedfiles/particulares/Estaticos/Imagenes/Pruebas/FO/ico-gestorintouch-part.png
+File Name: C:\Downloaded Web Sites\www.caixabank.es\deployedfiles\particulares\Estaticos\Imagenes\Pruebas\FO\ico-gestorintouch-part.png
+Content Type: image/png
+
+Uri: https://www.caixabank.es/deployedfiles/particulares/Estaticos/Imagenes/Pruebas/FO/ico-hipotecas-part.png
+File Name: C:\Downloaded Web Sites\www.caixabank.es\deployedfiles\particulares\Estaticos\Imagenes\Pruebas\FO\ico-hipotecas-part.png
+Content Type: image/png
+
+Uri: https://www.caixabank.es/deployedfiles/particulares/Estaticos/Imagenes/Pruebas/FO/ico-inversion-part.png
+File Name: C:\Downloaded Web Sites\www.caixabank.es\deployedfiles\particulares\Estaticos\Imagenes\Pruebas\FO\ico-inversion-part.png
+Content Type: image/png
+
+Uri: https://www.caixabank.es/deployedfiles/particulares/Estaticos/Imagenes/Pruebas/FO/ico-jubilacion-part.png
+File Name: C:\Downloaded Web Sites\www.caixabank.es\deployedfiles\particulares\Estaticos\Imagenes\Pruebas\FO\ico-jubilacion-part.png
+Content Type: image/png
+
+Uri: https://www.caixabank.es/deployedfiles/particulares/Estaticos/Imagenes/Pruebas/FO/ico-movilidad-part.png
+File Name: C:\Downloaded Web Sites\www.caixabank.es\deployedfiles\particulares\Estaticos\Imagenes\Pruebas\FO\ico-movilidad-part.png
+Content Type: image/png
+
+Uri: https://www.caixabank.es/deployedfiles/particulares/Estaticos/Imagenes/Pruebas/FO/ico-pagosonline-part.png
+File Name: C:\Downloaded Web Sites\www.caixabank.es\deployedfiles\particulares\Estaticos\Imagenes\Pruebas\FO\ico-pagosonline-part.png
+Content Type: image/png
+
+Uri: https://www.caixabank.es/deployedfiles/particulares/Estaticos/Imagenes/Pruebas/FO/ico-prestamos-part.png
+File Name: C:\Downloaded Web Sites\www.caixabank.es\deployedfiles\particulares\Estaticos\Imagenes\Pruebas\FO\ico-prestamos-part.png
+Content Type: image/png
+
+Uri: https://www.caixabank.es/deployedfiles/particulares/Estaticos/Imagenes/Pruebas/FO/ico-seguridad-part.png
+File Name: C:\Downloaded Web Sites\www.caixabank.es\deployedfiles\particulares\Estaticos\Imagenes\Pruebas\FO\ico-seguridad-part.png
+Content Type: image/png
+
+Uri: https://www.caixabank.es/deployedfiles/particulares/Estaticos/Imagenes/Pruebas/FO/ico-seguros-part.png
+File Name: C:\Downloaded Web Sites\www.caixabank.es\deployedfiles\particulares\Estaticos\Imagenes\Pruebas\FO\ico-seguros-part.png
+Content Type: image/png
+
+Uri: https://www.caixabank.es/deployedfiles/particulares/Estaticos/Imagenes/Pruebas/FO/ico-sostenibilidad-part.png
+File Name: C:\Downloaded Web Sites\www.caixabank.es\deployedfiles\particulares\Estaticos\Imagenes\Pruebas\FO\ico-sostenibilidad-part.png
+Content Type: image/png
+
+Uri: https://www.caixabank.es/deployedfiles/particulares/Estaticos/Imagenes/Pruebas/FO/ico-talks-part.png
+File Name: C:\Downloaded Web Sites\www.caixabank.es\deployedfiles\particulares\Estaticos\Imagenes\Pruebas\FO\ico-talks-part.png
+Content Type: image/png
+
+Uri: https://www.caixabank.es/deployedfiles/particulares/Estaticos/Imagenes/Pruebas/FO/ico-tarjetas-part.png
+File Name: C:\Downloaded Web Sites\www.caixabank.es\deployedfiles\particulares\Estaticos\Imagenes\Pruebas\FO\ico-tarjetas-part.png
+Content Type: image/png
+
+Uri: https://www.caixabank.es/deployedfiles/particulares/Estaticos/Imagenes/Pruebas/FO/ico-tiendawivai-part.png
+File Name: C:\Downloaded Web Sites\www.caixabank.es\deployedfiles\particulares\Estaticos\Imagenes\Pruebas\FO\ico-tiendawivai-part.png
+Content Type: image/png
+
+Uri: https://www.caixabank.es/deployedfiles/particulares/Estaticos/Imagenes/Pruebas/FO/icon-button-client.svg
+File Name: C:\Downloaded Web Sites\www.caixabank.es\deployedfiles\particulares\Estaticos\Imagenes\Pruebas\FO\icon-button-client.svg
+Content Type: image/svg+xml
+
+Uri: https://www.caixabank.es/deployedfiles/particulares/Estaticos/Imagenes/Pruebas/FO/icon-menu-example-24x24.png
+File Name: C:\Downloaded Web Sites\www.caixabank.es\deployedfiles\particulares\Estaticos\Imagenes\Pruebas\FO\icon-menu-example-24x24.png
+Content Type: image/png
+
+Uri: https://www.caixabank.es/deployedfiles/particulares/Estaticos/Imagenes/Tiktok.svg
+File Name: C:\Downloaded Web Sites\www.caixabank.es\deployedfiles\particulares\Estaticos\Imagenes\Tiktok.svg
+Content Type: image/svg+xml
+
+Uri: https://www.caixabank.es/deployedfiles/particulares/Estaticos/Imagenes/Twitter.svg
+File Name: C:\Downloaded Web Sites\www.caixabank.es\deployedfiles\particulares\Estaticos\Imagenes\Twitter.svg
+Content Type: image/svg+xml
+
+Uri: https://www.caixabank.es/deployedfiles/particulares/Estaticos/Imagenes/Youtube.svg
+File Name: C:\Downloaded Web Sites\www.caixabank.es\deployedfiles\particulares\Estaticos\Imagenes\Youtube.svg
+Content Type: image/svg+xml
+
+Uri: https://www.caixabank.es/deployedfiles/particulares/Estaticos/Javascript/s_code_basic.js
+File Name: C:\Downloaded Web Sites\www.caixabank.es\deployedfiles\particulares\Estaticos\Javascript\s_code_basic.js
+Content Type: application/javascript
+
+Uri: https://www.caixabank.es/particular/home/particulares_es.html
+File Name: C:\Downloaded Web Sites\www.caixabank.es\particular\home\particulares_es.html
+Content Type: text/html
+
+Uri: https://www.caixabank.es/particular/home/particulars_ca.html
+File Name: C:\Downloaded Web Sites\www.caixabank.es\particular\home\particulars_ca.html
+Content Type: text/html
+
+Uri: https://www.caixabank.es/particular/home/particulars_eu.html
+File Name: C:\Downloaded Web Sites\www.caixabank.es\particular\home\particulars_eu.html
+Content Type: text/html
+
+Uri: https://www.caixabank.es/particular/home/particulars_gl.html
+File Name: C:\Downloaded Web Sites\www.caixabank.es\particular\home\particulars_gl.html
+Content Type: text/html
+
+Uri: https://www.caixabank.es/particular/home/particulars_va.html
+File Name: C:\Downloaded Web Sites\www.caixabank.es\particular\home\particulars_va.html
+Content Type: text/html
+
